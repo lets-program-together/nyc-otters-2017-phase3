@@ -53,7 +53,7 @@ See the <a href="../../wiki/Groups">wiki</a> for your weekly groups.
 
 ## Weekly Cadence
 
-- Yoga: Tuesday and Thursdays from 12:15 PM - 1:15 PM
+- Yoga: Mondays and Wednesdays from 12:15 PM - 1:05 PM
 - Engineering Empathy:
   - Week One: Navigating Difficult Conversations, Tuesday from 3:00 PM - 4:00 PM
   - Week Two: Team Dynamics, Tuesday from 3:00 PM - 4:00 PM
