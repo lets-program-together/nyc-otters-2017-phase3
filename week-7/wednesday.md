@@ -1,5 +1,5 @@
 ## Wednesday
-### Intro to React (Components, Props, State)
+### Intro to React
 
 ### Core
 
