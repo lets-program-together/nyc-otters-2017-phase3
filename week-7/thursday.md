@@ -1,11 +1,20 @@
 ## Thursday
-### Design a React app from the ground up
+### React and Design From Scratch
 
-#### Challenges
+**Talks**
+
+- New Technology Exploration Talks
+
+**Daily Retros**
+
+- How does design influence your development process?
+- From your experiencing today designing and programming, what would you change in the future?
+
+**Challenges**
   
 - **Morning**
   
-  ** [Solo Project] Build an IMDB clone using React and OMDB API**
+  **[Solo Project] IMDB Clone**
 
   Build an IMDB clone with React using the [OMDB API](http://www.omdbapi.com/).
   
@@ -15,13 +24,12 @@
   
   Have fun!
   
-- **Afternoon (If you finish IMDB clone)**
+- **Afternoon (If you finish IMDB Clone)**
   
-  **[Pair Project] Build a Stack Overflow clone**
+  **[Pair Project] Stack Overflow Clone**
   This project would be exactly the same from P2 - make sure to use polymorphic associations and make it better.
 
   The focus of this project is to better utilize React's compositional style and see some of the benefits first-hand.
-  
   
 **Resources**
 
@@ -31,9 +39,5 @@
 
 - Read [JBuilder](https://github.com/rails/jbuilder)
 - Watch [Railscast on JBuilder](http://railscasts.com/episodes/320-jbuilder)
-
-**Talks**
-
-- New Technology Exploration Talks
 
 ---
