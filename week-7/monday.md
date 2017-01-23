@@ -5,7 +5,9 @@
 ### Core
 
 **Talks**
-
+- Daily Retros
+  - What abstractions did you utilize to become accumulated with Rails?
+  - When was it especially a good opportunity to utilize your pair/teammates for help?
 - New Technology Exploration Talks
 
 **Challenges**
