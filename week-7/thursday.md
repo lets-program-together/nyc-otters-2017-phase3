@@ -1,5 +1,5 @@
 ## Thursday
-### React and Design From Scratch
+### Client Side Application Design
 
 **Talks**
 
