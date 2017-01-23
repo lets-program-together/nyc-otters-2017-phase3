@@ -12,7 +12,7 @@
 - [Rocket, Paper-plane, Scissors](../../../../rocket-paperplane-scissors-challenge)
 - [TDD Favorite Songs Application](../../../../tdd-favorite-songs-rails-challenge)
 
-** Daily Retros **
+**Daily Retros**
 
 - How is testing different from development?
 
