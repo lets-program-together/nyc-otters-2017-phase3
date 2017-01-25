@@ -26,13 +26,12 @@
 
 
 - **React**
+	- Do [React Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
 	- Read [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
+	- Read [React Rails Docs](https://github.com/reactjs/react-rails)
+	- Read the translation between [React ES6-ES5 and React-Ruby](http://panw.weebly.com/programming/translation-for-react-es5-es6-and-if-react-was-in-ruby)
 	- Watch this [talk](https://www.youtube.com/watch?v=qqVbr_LaCIo) until **10:26**
 	- Read React intro [blog](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
-	- Read the translation between [React ES6-ES5 and React-Ruby](http://panw.weebly.com/programming/translation-for-react-es5-es6-and-if-react-was-in-ruby)
-	- Watch [intro to JSX](https://frontendmasters.com/courses/react-intro/#v=mc66igcb45)
-	- [React Rails Docs](https://github.com/reactjs/react-rails)
-
 
 - **If you can (highly recommended)**
 	- Watch [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY)
