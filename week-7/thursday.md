@@ -15,21 +15,19 @@
 - **Morning**
   
   **[Solo Project] IMDB Clone**
-
+  
   Build an IMDB clone with React using the [OMDB API](http://www.omdbapi.com/). This should be an almost client side only application.
   
-  In the Lil' Twitter challenge, a design was provided to you, which you componentized. In this project, you will focus on design -- specifically you will focus on UI and software design using React.
+  In the Lil' Twitter challenge, a design was provided to you, which you componentized. In this project, you will focus on design -- specifically you will focus on UI and software design using React. Attention to detail is always important, but specifically for this challenge. You'll see why.
   
-  This project, intentionally, has very little instructions. Artists and Software Developers are no different. [What is Art anyway?](http://panw.weebly.com/programming/what-is-art). To me, it's just an expression with an intent therefore making everything art. As a Software Developer, you will not always be provided with very clear specifications. As an artist, you use your imagination and ask questions.
+  This project, intentionally, has very little instructions. Artists and Software Developers are no different. [What is Art anyway?](http://panw.weebly.com/programming/what-is-art). To me, it's just an expression with an intent therefore making everything art. As a Software Developer, you will not always be provided with very clear specifications. As an artist, you use your imagination and ask questions.
   
   Have fun!
   
 - **Afternoon (If you finish IMDB Clone)**
   
   **[Pair Project] Stack Overflow Clone**
-  This project would be exactly the same from P2 - make sure to use polymorphic associations and make it better.
-
-  The focus of this project is to better utilize React's compositional style and see some of the benefits first-hand.
+  This project would be exactly the same from P2 - make sure to use polymorphic associations for comments and votes. To focus on realizing the benefit of React components, I would recommend getting to the comments and votes aspect ASAP, so consider skiping authentication.
   
 **Resources**
 
