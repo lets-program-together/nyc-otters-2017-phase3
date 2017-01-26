@@ -16,7 +16,7 @@
   
   **[Solo Project] IMDB Clone**
 
-  Build an IMDB clone with React using the [OMDB API](http://www.omdbapi.com/).
+  Build an IMDB clone with React using the [OMDB API](http://www.omdbapi.com/). This should be an almost client side only application.
   
   In the Lil' Twitter challenge, a design was provided to you, which you componentized. In this project, you will focus on design -- specifically you will focus on UI and software design using React.
   
