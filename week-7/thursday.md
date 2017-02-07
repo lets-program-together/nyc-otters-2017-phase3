@@ -34,7 +34,7 @@
 - Translations for [React ES5, ES6, and if it was written in Ruby](http://panw.weebly.com/programming/translation-for-react-es5-es6-and-if-react-was-in-ruby)
 
 **Pre-work**
-
+- Read [React Interview Questions](https://dev.to/tylermcginnis/react-interview-questions)
 - Read [JBuilder](https://github.com/rails/jbuilder)
 - Watch [Railscast on JBuilder](http://railscasts.com/episodes/320-jbuilder)
 
